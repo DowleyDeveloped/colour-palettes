@@ -22,4 +22,4 @@ composer require dowleydeveloped/colour-palettes
 
 3. In the Control Panel, go to Settings → Plugins and click the “Install” button for Password Protection
 
-Brought to you by [FortyTwo](https://fortytwo.studio)
+Brought to you by [DowleyDeveloped](https://charlottedowley.co.uk)

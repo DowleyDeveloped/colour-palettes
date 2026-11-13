@@ -6,8 +6,8 @@
 	"license": "MIT",
 	"authors": [
 		{
-			"name": "FortyTwo Studio",
-			"homepage": "https://fortytwo.studio"
+			"name": "Dowley Developed",
+			"homepage": "https://charlottedowley.co.uk"
 		}
 	],
 	"require": {
@@ -22,8 +22,8 @@
 	"extra": {
 		"name": "Color Palettes",
 		"handle": "colour-palettes",
-		"developer": "FortyTwo Studio",
-		"developerUrl": "https://fortytwo.studio",
+		"developer": "Dowley Developed",
+		"developerUrl": "https://charlottedowley.co.uk",
 		"documentationUrl": "https://github.com/dowleydeveloped/colour-palettes/blob/main/README.md",
 		"changelogUrl": "https://raw.githubusercontent.com/dowleydeveloped/colour-palettes/main/CHANGELOG.md",
 		"class": "dowleydeveloped\\colourpalettes\\ColourPalettes"
